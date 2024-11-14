@@ -17,7 +17,7 @@ I'm a Software Engineer with over 4 years of experience in building robust backe
   - Developing scalable APIs, optimizing backend systems, and collaborating with international teams.
   - Enhancing efficiency with automated scripts and hands-on cloud technology.
 
-- **Senior .NET Consultant** at IFI Sol (Jul 2023 - Oct 2024)
+- **Senior .NET Consultant** at IFI Sol (Jul 2023 - Dec 2024)
   - Led development and deployment of a complex application, optimized performance, and implemented test cases.
 
 - **Software Engineer** at SAUFIK Technologies (Jun 2021 - Oct 2024)
