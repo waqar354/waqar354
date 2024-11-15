@@ -17,13 +17,13 @@ I'm a Software Engineer with over 4 years of experience in building robust backe
   - Developing scalable APIs, optimizing backend systems, and collaborating with international teams.
   - Enhancing efficiency with automated scripts and hands-on cloud technology.
 
-- **Senior .NET Consultant** at IFI Sol (Jul 2023 - Dec 2024)
+- **Senior .NET Consultant** at IFI Sol (Jul 2023 - Dec 2023)
   - Led development and deployment of a complex application, optimized performance, and implemented test cases.
 
-- **Software Engineer** at SAUFIK Technologies (Jun 2021 - Oct 2024)
+- **Software Engineer** at SAUFIK Technologies (Jun 2021 - Jul 2023)
   - Built an Automated Mobile Application Testing System, and leveraged AWS for enhanced system automation.
 
-- **Junior Software Engineer** at Perfekt Solutions (Jan 2021 - Oct 2024)
+- **Junior Software Engineer** at Perfekt Solutions (Jan 2021 - Jun 2021)
   - Developed desktop applications, mentored interns, and delivered efficient project solutions.
 
 
@@ -38,5 +38,5 @@ I'm a Software Engineer with over 4 years of experience in building robust backe
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [waqar354](https://www.linkedin.com/in/wrvicky/)
+- LinkedIn: [Waqar Rao](https://www.linkedin.com/in/wrvicky/)
 - Email: iamwaqarrao@gmail.com
